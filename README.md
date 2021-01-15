@@ -6,9 +6,9 @@ Create a .env file with the values sample bellow
 
 
 
-NODE_ENV=dev 
-PORT=3000 
-DB_USERNAME=root 
+NODE_ENV=dev  
+PORT=3000  
+DB_USERNAME=root  
 DB_PASSWORD=root 
 DB_NAME=sampleDb 
 DB_HOST=localhost 
