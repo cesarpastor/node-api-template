@@ -16,3 +16,5 @@ DB_PORT=13306
 DB_URL=jdbc:mariadb://192.168.99.100:13306/affiliate_db?useSSL=false&useUnicode=true&characterEncoding=UTF-8  
 JWT_SECRET=f!DT3[i+Zl(W}17:%@]Tly*#/F&&L  
 ENC_SECRET_KEY=EDmkTd9jo8QTy6b8  
+
+  
