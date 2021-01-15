@@ -18,11 +18,13 @@ JWT_SECRET=f!DT3[i+Zl(W}17:%@]Tly*#/F&&L
 ENC_SECRET_KEY=EDmkTd9jo8QTy6b8  
 
   
+
+
 ## Login endpoint  
 
 http://localhost:3000/api/v1/auth/login  
 
-### BODY
+#### BODY
 
 {
     "username" : "loybu",
@@ -32,8 +34,20 @@ http://localhost:3000/api/v1/auth/login
   
   
 ## Secured endpoint  
-  
-### Header  
+http://localhost:3000/api/v1/auth/auth-header
+
+
+#### Header  
   
 Key: Authorization  
 Value:  Bearer {token from login endpoint}
+
+
+
+
+
+
+
+  
+  
+  
